@@ -394,7 +394,27 @@
 
 1. Stage and commit the README.md file again.
 
+    I used the following commands:
+
+    ```
+    git add README.md
+    git commit -m "Part B complete"
+    ```
+
+    The output was:
+    
+    ```
+    [main 5a5a968] Part B completed
+    1 file changed, 173 insertions(+), 13 deletions(-)
+    ```
+
 Bonus
 
-    1. Name at least two concepts or commands that we have gone over in the course so far, but which you feel you do not (fully) understand. It helps to be specific about what you struggle with.
+1. Name at least two concepts or commands that we have gone over in the course so far, but which you feel you do not (fully) understand. It helps to be specific about what you struggle with.
+
+ - I struggled the most with wildcard expansion. I am particularly confused in regards to using it in the middle of a file to match any file in the working dir.  I think it makes the commands feel less readable to me, and in general I could only see myself using this command for very specfic purposes. 
+
+ - I also confused about the commands head and tail.  I understand how they work, but I don't see them as particularly useful. My question around these commands centers more on when they would be used rather than how they would be used. 
+
+ - I am still working on understanding creating count tables and gathering information from sequence files using `grep`, `cut`, `sort`, and `uniq`. I see the ability to use these commands in a pipe as incredibly useful, but it took me a while to figure out how to get the commands to display how I wanted. This assignment helped me understand how to use them in succession much better, but I would appreaciate going through more example of using these function in a pipe.
 
