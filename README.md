@@ -4,7 +4,7 @@
 
 1.  Add a header to your README file to indicate that this file (and dir) is for your assignment.
 
-        done!
+    done!
 
 1. Initialize a Git repository inside your new directory.
 
@@ -418,3 +418,5 @@ Bonus
 
  - I am still working on understanding creating count tables and gathering information from sequence files using `grep`, `cut`, `sort`, and `uniq`. I see the ability to use these commands in a pipe as incredibly useful, but it took me a while to figure out how to get the commands to display how I wanted. This assignment helped me understand how to use them in succession much better, but I would appreaciate going through more example of using these function in a pipe.
 
+
+ - Git repo was created on 9/26, updated 9/29
